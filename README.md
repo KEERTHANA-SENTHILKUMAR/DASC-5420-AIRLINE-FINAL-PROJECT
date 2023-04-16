@@ -6,3 +6,5 @@ added my r code in folder "DATA"
 added my datasets in folder "R"
 
 added my final report in folder "report"
+
+added my knitted r code in foldeer "knit"
